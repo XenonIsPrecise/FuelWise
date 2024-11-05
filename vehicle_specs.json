@@ -1,0 +1,7 @@
+[
+    { "id": 1, "brand": "Toyota", "type": "Sedan", "mileage": 30, "vehicleWeight": 3000, "passengerWeight": 400, "cargoWeight": 100, "weather": "clear" },
+    { "id": 2, "brand": "Ford", "type": "Truck", "mileage": 20, "vehicleWeight": 5000, "passengerWeight": 300, "cargoWeight": 500, "weather": "rainy" },
+    { "id": 3, "brand": "Honda", "type": "SUV", "mileage": 25, "vehicleWeight": 4000, "passengerWeight": 450, "cargoWeight": 200, "weather": "windy" },
+    { "id": 4, "brand": "Chevrolet", "type": "SUV", "mileage": 22, "vehicleWeight": 4500, "passengerWeight": 350, "cargoWeight": 300, "weather": "snowy" },
+    { "id": 5, "brand": "Nissan", "type": "Truck", "mileage": 18, "vehicleWeight": 5500, "passengerWeight": 500, "cargoWeight": 400, "weather": "clear" }
+]
