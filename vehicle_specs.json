@@ -3,5 +3,8 @@
     { "id": 2, "brand": "Ford", "type": "Truck", "mileage": 20, "vehicleWeight": 5000, "passengerWeight": 300, "cargoWeight": 500, "weather": "rainy" },
     { "id": 3, "brand": "Honda", "type": "SUV", "mileage": 25, "vehicleWeight": 4000, "passengerWeight": 450, "cargoWeight": 200, "weather": "windy" },
     { "id": 4, "brand": "Chevrolet", "type": "SUV", "mileage": 22, "vehicleWeight": 4500, "passengerWeight": 350, "cargoWeight": 300, "weather": "snowy" },
-    { "id": 5, "brand": "Nissan", "type": "Truck", "mileage": 18, "vehicleWeight": 5500, "passengerWeight": 500, "cargoWeight": 400, "weather": "clear" }
+    { "id": 5, "brand": "Nissan", "type": "Truck", "mileage": 18, "vehicleWeight": 5500, "passengerWeight": 500, "cargoWeight": 400, "weather": "clear" },
+    { "id": 6, "brand": "BMW", "type": "Sedan", "mileage": 28, "vehicleWeight": 3200, "passengerWeight": 450, "cargoWeight": 150, "weather": "rainy" },
+    { "id": 7, "brand": "Mercedes", "type": "SUV", "mileage": 24, "vehicleWeight": 4800, "passengerWeight": 400, "cargoWeight": 250, "weather": "windy" },
+    { "id": 8, "brand": "Hyundai", "type": "Truck", "mileage": 19, "vehicleWeight": 5200, "passengerWeight": 350, "cargoWeight": 600, "weather": "snowy" }
 ]
